@@ -1,0 +1,320 @@
+{
+  "product": [
+    {
+      "id":1,
+      "nama_kategori":"Buku",
+      "list_product":[
+        { 
+          "id": 1, 
+          "nama_barang": "Melangkah", 
+          "spesifikasi":{
+            "penulis": "Js. Khairan",
+            "jumlah_halaman": "368",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "23 Mar 2020",
+            "isbn": "9786020523316"
+          }, 
+          "harga": 65100
+        },
+        { 
+          "id": 2, 
+          "nama_barang": "Home Sweet Loan", 
+          "spesifikasi":{
+            "penulis": "Almira Bastari",
+            "jumlah_halaman": "312",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "16 Feb 2022",
+            "isbn": "9786020658049"
+          }, 
+          "harga": 76000
+        },
+        { 
+          "id": 3, 
+          "nama_barang": "Bicara Itu Ada Seninya", 
+          "spesifikasi":{
+            "penulis": "Oh Su Hyang",
+            "jumlah_halaman": "256",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "16 Sep 2019",
+            "isbn": "9786024553920"
+          }, 
+          "harga": 50400
+        },
+        { 
+          "id": 4, 
+          "nama_barang": "Detektif Conan 98", 
+          "spesifikasi":{
+            "penulis": "Aoyama Gosho",
+            "jumlah_halaman": "184",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "17 Mar 2021",
+            "isbn": "9786230024771"
+          }, 
+          "harga": 21000
+        },
+        { 
+          "id": 5, 
+          "nama_barang": "Buya Hamka", 
+          "spesifikasi":{
+            "penulis": "A. Fuadi",
+            "jumlah_halaman": "376",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "22 Des 2021",
+            "isbn": "9786026714732"
+          }, 
+          "harga": 76500
+        },
+        { 
+          "id": 6, 
+          "nama_barang": "Jakarta Sebelum Pagi", 
+          "spesifikasi":{
+            "penulis": "Ziggy Zeszyazeoviennazabrizkie",
+            "jumlah_halaman": "265",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "10 Sep 2022",
+            "isbn": "9786020664811"
+          }, 
+          "harga": 73600
+        }
+      ]
+    },
+    {
+      "id":2,
+      "nama_kategori":"Novel",
+      "list_product":[
+        {
+          "id": 7,
+          "nama_barang": "Laut Bercerita", 
+          "spesifikasi":{
+            "penulis": "Leila S. Chudori",
+            "jumlah_halaman": "400",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "3 Agt 2022",
+            "isbn": "9786024818722"
+          }, 
+          "harga": 152000
+        },
+        {
+          "id": 8,
+          "nama_barang":"Heartbreak Motel",
+          "spesifikasi":{
+            "penulis": "Ika Natassa",
+            "jumlah_halaman": "400",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "8 Apr 2022",
+            "isbn": "9786020658841"
+          }, 
+          "harga": 79200
+        },
+        {
+          "id": 9,
+          "nama_barang":"Pasta Kacang Merah (An(Sweet Bean Paste))",
+          "spesifikasi":{
+            "penulis": "Durian Sukegawa",
+            "jumlah_halaman": "240",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "10 Okt 2022",
+            "isbn": "9786020665078"
+          }, 
+          "harga": 64000
+        },
+        {
+          "id": 10,
+          "nama_barang":"Novel Catatan Pembunuhan Sang Novelis (Malice)",
+          "spesifikasi":{
+            "penulis": "Keigo Higashino",
+            "jumlah_halaman": "304",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "4 Agt 2020",
+            "isbn": "9786020639321"
+          }, 
+          "harga": 65100
+        },
+        {
+          "id": 11,
+          "nama_barang":"1 Kos, 3 Cinta, 7 Keberuntungan",
+          "spesifikasi":{
+            "penulis": "Astrid Tito",
+            "jumlah_halaman": "308",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "21 Okt 2019",
+            "isbn": "9786020630168"
+          }, 
+          "harga": 25500
+        },
+        {
+          "id": 12,
+          "nama_barang":"Cantik Itu Luka (edisi 20 Tahun)",
+          "spesifikasi":{
+            "penulis": "Eka Kurniawan",
+            "jumlah_halaman": "512",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "3 Jul 2022",
+            "isbn": "9786020366517"
+          }, 
+          "harga": 133500
+        }
+      ]
+    },
+    {
+      "id":3,
+      "nama_kategori":"E-Book",
+      "list_product":[
+        {
+          "id": 13,
+          "nama_barang":"Memimpinlah Dengan Prinsip-Prinsip Ini (Lead Like It Matters )",
+          "spesifikasi":{
+            "penulis": "Craig Groeschel",
+            "jumlah_halaman": "296",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "8 Sep 2022",
+            "isbn": "9786024192358"
+          }, 
+          "harga": 100000
+        },
+        {
+          "id": 14,
+          "nama_barang":"Rahasia Kuasa Rohani (Secrets To Spiritual Power)",
+          "spesifikasi":{
+            "penulis": "Watchman Nee",
+            "jumlah_halaman": "312",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "8 Sep 2022",
+            "isbn": "9786024192365"
+          }, 
+          "harga": 109000
+        },
+        {
+          "id": 15,
+          "nama_barang":"Islam Praksis",
+          "spesifikasi":{
+            "penulis": "Dr. Ayang Utriza Yakin, Dea.",
+            "jumlah_halaman": "220",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "8 Sep 2022",
+            "isbn": "9786235348148"
+          }, 
+          "harga": 70000
+        },
+        {
+          "id": 16,
+          "nama_barang":"Dialah Allah Swt Yang Kita Sembah",
+          "spesifikasi":{
+            "penulis": "Sayyid Muhammad Bin Alawi Al-Maliki",
+            "jumlah_halaman": "174",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "8 Sep 2022",
+            "isbn": "9786232937239"
+          }, 
+          "harga": 60000
+        },
+        {
+          "id": 17,
+          "nama_barang":"Every Age Every Stage",
+          "spesifikasi":{
+            "penulis": "Ken Hindman Dkk",
+            "jumlah_halaman": "198",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "1 Sep 2022",
+            "isbn": "9786239858322"
+          }, 
+          "harga": 63750
+        },
+        {
+          "id": 18,
+          "nama_barang":"Now I Can Tell My Feeling",
+          "spesifikasi":{
+            "penulis": "Desy Rachma",
+            "jumlah_halaman": "170",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "29 Agt 2022",
+            "isbn": "9786235307114"
+          }, 
+          "harga": 120000
+        }
+      ]
+    },
+    {
+      "id":4,
+      "nama_kategori":"Majalah",
+      "list_product":[
+        {
+          "id": 19,
+          "nama_barang":"Kebaya Indonesia September 2022",
+          "spesifikasi":{
+            "penulis": "Majalah Gramedia",
+            "jumlah_halaman": "32",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "19 Sep 2022",
+            "isbn": "9772088920815"
+          }, 
+          "harga":45000
+        },
+        {
+          "id": 20,
+          "nama_barang":"Peluang September 2022",
+          "spesifikasi":{
+            "penulis": "Majalah Gramedia",
+            "jumlah_halaman": "74",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "12 Sep 2022",
+            "isbn": "9770852375410"
+          }, 
+          "harga":45000
+        },
+        {
+          "id": 21,
+          "nama_barang":"Property And The City 6",
+          "spesifikasi":{
+            "penulis": "Majalah Gramedia",
+            "jumlah_halaman": "79",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "12 Sep 2022",
+            "isbn": "9772355036812"
+          }, 
+          "harga":35000
+        },
+        {
+          "id": 22,
+          "nama_barang":"Elle September 2022",
+          "spesifikasi":{
+            "penulis": "Majalah Gramedia",
+            "jumlah_halaman": "146",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "11 Sep 2022",
+            "isbn": "9771979105003"
+          }, 
+          "harga":80000
+        },
+        {
+          "id": 23,
+          "nama_barang":"Yokatta Agustus - September 2022",
+          "spesifikasi":{
+            "penulis": "Majalah Gramedia",
+            "jumlah_halaman": "79",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "24 Agt 2022",
+            "isbn": "9772442963007"
+          }, 
+          "harga":32000
+        },
+        {
+          "id": 24,
+          "nama_barang":"Daman 5 (Edisi Agustus 2022 - September 2022)",
+          "spesifikasi":{
+            "penulis": "Majalah Gramedia",
+            "jumlah_halaman": "136",
+            "bahasa": "Indonesia",
+            "tanggal_terbit": "11 Agt 2022",
+            "isbn": "9771978295064"
+          }, 
+          "harga":90000
+        }
+      ]
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
