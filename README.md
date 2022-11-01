@@ -5,3 +5,4 @@ Kelas : Pemrograman Web Lanjut R <br/>
 
 ## Repository Untuk Tugas Pemrograman Web Lanjut (PWL) ITERA
 Tugas Individu 1 : https://github.com/nadhifathalla26/Tugas-PWL/tree/main/Tugas%20Individu%201
+Tugas Individu 2 : https://github.com/nadhifathalla26/Tugas-PWL/tree/main/Tugas%20Individu%202
